@@ -26,7 +26,7 @@
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-! [Snake animation](https://github.com/lhsalerno/lhsalerno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lhsalerno/lhsalerno/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
