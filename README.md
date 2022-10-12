@@ -14,9 +14,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/lhsalerno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhsalerno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhsalerno&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/LhSalerno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LhSalerno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhsalerno&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,7 +26,7 @@
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-![Snake animation](https://github.com/lhsalerno/lhsalerno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LhSalerno/LhSalerno/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
