@@ -1,32 +1,40 @@
-### Olá eu sou Luis Salerno!
+<!-- Seja bem-vindo(a)! -->
 
-<div> 
-  <a href="https://www.instagram.com/luis_salerno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luis.h.salerno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-salerno-971654b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Olá, eu sou Luis Salerno! 👋
+
+<div align="center"> 
+  <a href="https://www.instagram.com/luis_salerno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:luis.h.salerno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/luis-salerno-971654b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </div>
 
-- 🔭 Atualmente trabalho como motorista de APP
-- 🌱 Estudo para me tornar um Dev Front-End
-- 💬 (11) 996673458
-- 📫 luis.h.salerno@gmail.com
-- 😄 Ele
+### 👨‍💻 Sobre Mim
 
-<div align="center">
-  <a href="https://github.com/LhSalerno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LhSalerno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhsalerno&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Sou apaixonado por transformar linhas de código em experiências interativas. Com mais de 13 anos de experiência em administração, com foco em departamento financeiro e faturamento, estou fazendo uma transição para o mundo do desenvolvimento front-end. Atualmente, trabalho como motorista de aplicativo e estudo para me aprimorar em HTML, CSS, JavaScript e TypeScript para construir interfaces modernas e responsivas.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+### 🚀 Habilidades
 
-![Snake animation](https://github.com/LhSalerno/LhSalerno/blob/output/github-contribution-grid-snake.svg)
+- **Desenvolvimento Front-End:** HTML5, CSS3, JavaScript, TypeScript
+- **Ferramentas:** VS Code, Git, GitHub
+- **Metodologias:** Desenvolvimento Ágil, Scrum
 
-</div>
+### 📚 Atualmente Estudando
 
+Estou focado em aprimorar minhas habilidades em:
+
+- ReactJS
+- Next.js
+- UI/UX Design
+
+### 📞 Vamos Conversar?
+
+Estou entusiasmado para contribuir em projetos inovadores como desenvolvedor front-end. Se você está em busca de alguém comprometido, criativo e apaixonado por tecnologia, vamos conectar!
+
+- 📧 luis.h.salerno@gmail.com
+- 📱 (11) 99667-3458
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-salerno-971654b3/)
+
+---
+
+<!-- Obrigado por visitar meu perfil! Espero falar com você em breve! 😊 -->
 
