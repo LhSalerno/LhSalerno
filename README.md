@@ -38,7 +38,7 @@ Estou focado em aprimorar minhas habilidades em:
 Estou entusiasmado para contribuir em projetos inovadores como desenvolvedor front-end. Se você está em busca de alguém comprometido, criativo e apaixonado por tecnologia, vamos conectar!
 
 - 📧 luis.h.salerno@gmail.com
-- 📱 (11) 99667-3458
+- 📱 (11) 96497-1777
 - 💼 [LinkedIn](https://www.linkedin.com/in/luis-salerno-971654b3/)
 
 ---
